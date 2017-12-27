@@ -13,10 +13,10 @@ Step by Step Instructions:-
 6. Start the cab by turning the power supply "On".
 7. In the Keypad enter the route. And at last press "D" key. It acts like enter.
 
-Instruction for entering route.
-First press direction letter and then number of magnets to be travelled. 
-"F" for forward.
-"R" for Right.
-"L" for Left.
-1 to 9 Magnets to travel.
-Example: "F5R1" This will make the "CAB" to move 5 magnets forward and after that take a 90 degree turn to the right. (You can see this in the video)
+Instruction for entering route.</br>
+First press direction letter and then number of magnets to be travelled.</br>
+"F" for forward.</br>
+"R" for Right.</br>
+"L" for Left.</br>
+1 to 9 Magnets to travel.</br>
+Example: "F5R1" This will make the "CAB" to move 5 magnets forward and after that take a 90 degree turn to the right. (You can see this in the video)</br>
